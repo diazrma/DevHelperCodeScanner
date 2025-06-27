@@ -1,7 +1,6 @@
 <?php
 /**
- * Copyright © Hibrido. All rights reserved.
- * https://www.hibrido.com.br/
+ * Copyright © Rodrigo Cardoso. All rights reserved.
  */
 
 declare(strict_types=1);
