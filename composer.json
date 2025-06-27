@@ -1,0 +1,17 @@
+{
+    "name": "devhelper/module-codescanner",
+    "description": "Módulo para varredura de más práticas em módulos personalizados Magento 2.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "DevHelper\\CodeScanner\\": ""
+        }
+    }
+} 
