@@ -1,10 +1,7 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Copyright © Hibrido. All rights reserved.
- * https://www.hibrido.com.br/
- *
- * Magento 2 module declaration for DevHelper_CodeScanner.
+ * Copyright © Rodrigo Cardoso. All rights reserved.
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
