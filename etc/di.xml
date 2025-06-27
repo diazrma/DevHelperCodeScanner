@@ -2,7 +2,6 @@
 <!--
 /**
  * Copyright © Rodrigo Cardoso. All rights reserved.
- * Dependency injection configuration for DevHelper_CodeScanner.
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
