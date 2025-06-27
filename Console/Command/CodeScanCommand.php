@@ -1,11 +1,6 @@
 <?php
 /**
  * Copyright © Rodrigo Cardoso. All rights reserved.
- *
- * Command to scan custom Magento 2 modules for bad practices and common issues.
- *
- * @category  DevHelper
- * @package   DevHelper_CodeScanner
  */
 declare(strict_types=1);
 
